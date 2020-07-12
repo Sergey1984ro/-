@@ -1,0 +1,27 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	min-width: 1000px;
+	font-family: segoe script;
+}
+#blue-bar { 
+  background-color: blue;
+  color: red;
+  padding: 20px 0;
+}
+#blue-bar a {
+color: red;
+}
+#current_date_time_block {
+  color: red;
+  float: right;
+   }
+.fixed-container {
+  width: 960px;
+  margin: 0 auto;
+  position: relative;
+}
+#logo{
+  position:relative;
+  top:40px;
+}
